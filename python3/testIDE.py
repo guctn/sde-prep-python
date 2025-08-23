@@ -1,1 +1,0 @@
-print('my names is Gustavo, I\' 18 and from Brazil')
