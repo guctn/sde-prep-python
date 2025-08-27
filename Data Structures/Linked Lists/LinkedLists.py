@@ -161,7 +161,6 @@ class LinkedList:
         temp = self.head
         self.head = self.tail
         self.tail = temp
-        after = temp.next
         before = None
         while temp:
             after = temp.next
